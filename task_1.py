@@ -43,5 +43,5 @@ with open('recipes.txt', encoding='utf-8') as file:
         return cooking_list
     print(get_shop_list_by_dishes(['Омлет', 'Омлет'], 2))
 
-# task_3
+
 
